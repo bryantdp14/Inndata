@@ -1,0 +1,6 @@
+--- Notas importantes 
+
+1. Las clases son con LA primera mayuscula y las variables son con letras minusculas es parte de las buenas practicas.
+
+-- ACtividad diseño de un diagrama de flujo
+

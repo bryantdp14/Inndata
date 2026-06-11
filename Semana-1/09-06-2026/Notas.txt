@@ -1,0 +1,19 @@
+-- Notas de la sesion
+
+1. Un tipo de dato primitivo esta compuedo por un dato estrucutrado 
+2. las operaciones por jerarquia tienen 4 prioridades 
+ -- 1 PArentesis
+ -- 2 Exponetes, Rediacion y Residuo
+ -- 3 Multiplicacion y division
+ -- 4 Suma y resta
+
+ Ejemplo : 6+5*4/3=
+
+segun la opercaion jerarjiqua searia asi 6 + (5*4)/3= 
+despues 6+((5*4)/3)=
+
+
+3. input  ingreso a teclado 
+    output salida de texto
+    
+
