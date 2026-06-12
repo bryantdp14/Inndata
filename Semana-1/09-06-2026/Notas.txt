@@ -15,5 +15,6 @@ despues 6+((5*4)/3)=
 
 3. input  ingreso a teclado 
     output salida de texto
-    
+
+4. operadores para 
 
