@@ -1,3 +1,4 @@
+package EjerciciosCiclos;
 import java.util.Scanner;
 
 public class ParInpar {
