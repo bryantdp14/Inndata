@@ -1,0 +1,32 @@
+
+public class Jugadores{
+    public static void main(String[] args){
+        MiHashSet<String> jugadores = new MiHashSet<>();
+
+        jugadores.add("Robert Lewandowski");
+        jugadores.add("Pedri");
+        jugadores.add("Gavi");
+        jugadores.add("Lamine Yamal");
+
+        for (String jugador : jugadores) {
+            System.out.println(jugador);
+        }
+
+        String jugadorBuscar = "Neymar JR";
+
+        if (jugadores.has(jugadorBuscar)) {
+            System.out.println("SÍ existe en el conjunto.");
+        } else {
+            System.out.println("NO existe en el conjunto.");
+        }
+
+        for(String nom: jugadores)¨{
+              if (nom.has(jugadorBuscar)) {
+                System.out.println("SÍ existe en el conjunto.");
+            } else {
+                System.out.println("NO existe en el conjunto.");
+            }
+        }
+
+    }
+}
